@@ -4,7 +4,7 @@ A complete framework for VQ-VAE-2 by @Google-DeepMind with PixelSnail prior netw
 
 ## Features
 
-![Scrutinizer GitHub Coverage](https://img.shields.io/scrutinizer/coverage/g/Bronnan-Cook/VQ-VAE)  
+![Coverage](https://img.shields.io/scrutinizer/coverage/g/Bronnan-Cook/VQ-VAE)  
 
 - [ ] **Hierarchical VQ-VAE**: Multi-scale latent representations for high-resolution sample generation.
 - [ ] **Multi-Medium PixelSnail Prior**: Advanced autoregressive model with causal attention.
@@ -165,9 +165,9 @@ This project is licensed under the ![Apache License 2.0](https://img.shields.io/
 ### Contributors
 
 - ![Contributors](https://img.shields.io/github/all-contributors/Bronnan-Cook/VQ-VAE)
-- [ZZZ Code AI](https://zzzcode.ai/)
+- [ZZZ Code AI](https://www.instagram.com/jonathan_magnan/)
 - [DeepSeek R1-0528](https://chat.deepseek.com/)
 
 ### Dependencies
 
-- ![Libraries.io Dependencies](https://img.shields.io/librariesio/github/Bronnan-Cook/VQ-VAE)
+- ![Dependencies](https://img.shields.io/librariesio/github/Bronnan-Cook/VQ-VAE)

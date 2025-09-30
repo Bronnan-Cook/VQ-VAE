@@ -6,15 +6,15 @@ A complete framework for VQ-VAE-2 by @Google-DeepMind with PixelSnail prior netw
 
 ![Scrutinizer GitHub Coverage](https://img.shields.io/scrutinizer/coverage/g/Bronnan-Cook/VQ-VAE)  
 
-- [] **Hierarchical VQ-VAE**: Multi-scale latent representations for high-resolution sample generation.
-- [] **Multi-Medium PixelSnail Prior**: Advanced autoregressive model with causal attention.
-- [] **Class-Conditional Generation**: Support for conditional sample generation.
-- [] **Rejection Sampling**: Classifier-based quality-diversity trade-off.
-- [] **Quantitative Metrics**: Provided metrics include FID, Inception Score, MSE, Precision-Recall, CAS, etc.
-- [] **EMA Codebook Updates**: Stable training with exponential moving averages.
-- [] **TensorBoard Integration**: Real-time training visualization.
-- [] **Check Pointing**: Automatic model saving & restoration.
-- [] **Template Datasets**: Further improved quality & diversity without copyright strikes or medium limitations.
+- [ ] **Hierarchical VQ-VAE**: Multi-scale latent representations for high-resolution sample generation.
+- [ ] **Multi-Medium PixelSnail Prior**: Advanced autoregressive model with causal attention.
+- [ ] **Class-Conditional Generation**: Support for conditional sample generation.
+- [ ] **Rejection Sampling**: Classifier-based quality-diversity trade-off.
+- [ ] **Quantitative Metrics**: Provided metrics include FID, Inception Score, MSE, Precision-Recall, CAS, etc.
+- [ ] **EMA Codebook Updates**: Stable training with exponential moving averages.
+- [ ] **TensorBoard Integration**: Real-time training visualization.
+- [ ] **Check Pointing**: Automatic model saving & restoration.
+- [ ] **Template Datasets**: Further improved quality & diversity without copyright strikes or medium limitations.
 
 ## Usage
 
